@@ -7,7 +7,7 @@ images: ["site-feature-image.png"]
 categories: ["Hugo Bootstrap Theme"]
 tags: ["Hugo","Bootstrap","Featured"]
 keywords: ["hugo bootstrap theme"]
-authors: ["Filipe Carneiro"]
+authors: ["Aaron Jiang, Filipe Carneiro"]
 aliases:
   - hugo-bootstrap-theme-alpha
 ---
