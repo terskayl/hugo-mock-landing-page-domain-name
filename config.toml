@@ -1,6 +1,6 @@
 baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
 title = "CreativeFlow"
-author = "Filipe Carneiro"
+author = "Aaron Jiang"
 copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
 
 timeZone = 'Europe/London'
@@ -47,3 +47,7 @@ enableEmoji = true
   [[module.mounts]]
     source = "static"
     target = "static"
+
+[params]
+  author = "Aaron Jiang"
+  year = "2025"
