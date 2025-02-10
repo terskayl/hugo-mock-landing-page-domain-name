@@ -16,11 +16,8 @@ These are features that are currently implemented in the Project Tracker for Cre
 
 1. As a user, I want to categorize my projects (e.g., illustration, design, animation) so I can easily organize my creative work.
 2. As a visual artist, I want a progress tracker that visually represents how much of a project is completed with percentage indicators and milestone markers, so I can accurately assess my progress.
-3. As a creative, I want to add notes and comments to each project, so I can store ideas and revisions in one place.
-4. As a user, I want to export my project data as a PDF or CSV file, so I can share progress reports with clients or collaborators.
-5. As a digital artist, I want the ability to sync my projects across multiple devices in real-time, so I can work seamlessly from different locations without version conflicts.
-6. As a user, I want a customizable interface with layout and color scheme options, so I can personalize the workspace to fit my preferences and reduce distractions.
-7. As a creative professional, I want to set deadlines for my projects, so I can stay on schedule and meet my goals.
+3. As a user, I want to export my project data as a PDF or CSV file, so I can share progress reports with clients or collaborators.
+
 
 ## Potential Features Expansion
 
@@ -36,3 +33,6 @@ These are features that are currently implemented in the Project Tracker for Cre
 10. As a user, I want offline access to my projects with automatic syncing when reconnected to the internet, so I can work without an internet connection and avoid losing progress.
 11. As a creative, I want the ability to share a read-only version of my project timeline with clients or collaborators through a public link or PDF export, so they can track progress without editing access.
 12. As an artist, I want a quick search feature with keyword filtering and sorting options, so I can find specific projects or tasks instantly without scrolling through long lists.
+13. As a digital artist, I want the ability to sync my projects across multiple devices in real-time, so I can work seamlessly from different locations without version conflicts.
+14. As a user, I want a customizable interface with layout and color scheme options, so I can personalize the workspace to fit my preferences and reduce distractions.
+15. As a creative professional, I want to set deadlines for my projects, so I can stay on schedule and meet my goals.
