@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CreativeFlow</title>
+    <link>https://terskayl.github.io/hugo-mock-landing-page/</link>
+    <description>Recent content on CreativeFlow</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Aaron Jiang</copyright>
+    <lastBuildDate>Mon, 10 Feb 2025 20:17:09 -0500</lastBuildDate>
+    <atom:link href="https://terskayl.github.io/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Development Journey of CreativeFlow</title>
+      <link>https://terskayl.github.io/hugo-mock-landing-page/post/creativeflow-development-process/</link>
+      <pubDate>Mon, 10 Feb 2025 13:35:02 +0100</pubDate>
+      <guid>https://terskayl.github.io/hugo-mock-landing-page/post/creativeflow-development-process/</guid>
+      <description>&lt;h1 id=&#34;the-development-journey-of-creativeflow&#34;&gt;The Development Journey of CreativeFlow&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;CreativeFlow started as a vision to empower artists and creatives with a seamless project management tool tailored to their unique workflow. What began as a simple idea quickly evolved into a feature-rich platform designed to enhance productivity without stifling creativity.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-concept&#34;&gt;The Concept&lt;/h2&gt;&#xA;&lt;p&gt;The initial inspiration for CreativeFlow stemmed from conversations with artists, designers, and freelancers who struggled to manage their projects effectively. Common pain points included scattered references, disorganized task lists, and difficulty tracking progress. The goal was clear: create an intuitive tool that blends organization with artistic freedom.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://terskayl.github.io/hugo-mock-landing-page/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://terskayl.github.io/hugo-mock-landing-page/code-of-conduct/</guid>
+      <description>&lt;h1 id=&#34;contributor-covenant-code-of-conduct&#34;&gt;Contributor Covenant Code of Conduct&lt;/h1&gt;&#xA;&lt;h2 id=&#34;our-pledge&#34;&gt;Our Pledge&lt;/h2&gt;&#xA;&lt;p&gt;We as members, contributors, and leaders pledge to make participation in our&#xA;community a harassment-free experience for everyone, regardless of age, body&#xA;size, visible or invisible disability, ethnicity, sex characteristics, gender&#xA;identity and expression, level of experience, education, socio-economic status,&#xA;nationality, personal appearance, race, caste, color, religion, or sexual&#xA;identity and orientation.&lt;/p&gt;&#xA;&lt;p&gt;We pledge to act and interact in ways that contribute to an open, welcoming,&#xA;diverse, inclusive, and healthy community.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://terskayl.github.io/hugo-mock-landing-page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://terskayl.github.io/hugo-mock-landing-page/contact/</guid>
+      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/terskayl/hugo-mock-landing-page/issues/new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open an issue&lt;/a&gt; on GitHub.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://terskayl.github.io/hugo-mock-landing-page/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://terskayl.github.io/hugo-mock-landing-page/privacy-policy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: We do not use cookies and we do not collect any personal data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;website-visitors&#34;&gt;Website visitors&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No personal information is collected.&lt;/li&gt;&#xA;&lt;li&gt;No information is stored in the browser.&lt;/li&gt;&#xA;&lt;li&gt;No information is shared with, sent to or sold to third-parties.&lt;/li&gt;&#xA;&lt;li&gt;No information is shared with advertising companies.&lt;/li&gt;&#xA;&lt;li&gt;No information is mined and harvested for personal and behavioral trends.&lt;/li&gt;&#xA;&lt;li&gt;No information is monetized.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;information-we-collect-and-what-we-use-it-for&#34;&gt;Information we collect and what we use it for&lt;/h2&gt;&#xA;&lt;p&gt;The server hosting this site can collect the following information:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
