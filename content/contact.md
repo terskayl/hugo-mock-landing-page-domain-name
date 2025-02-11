@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/terskayl/hugo-mock-landing-page/issues/new) on GitHub.
+[Open an issue](https://github.com/terskayl/hugo-mock-landing-page/issues/new) on GitHub!
