@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "hugo": "^0.0.3"
+  },
+  "name": "hugo-mock-landing-page-domain-name",
+  "version": "1.0.0",
+  "description": "Assignment 1 Part 2 for CIS 3500 - Software Engineering",
+  "main": "index.js",
+  "devDependencies": {
+    "@filipecarneiro/hugo-bootstrap-theme": "^1.0.49",
+    "hugo-installer": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terskayl/hugo-mock-landing-page-domain-name.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terskayl/hugo-mock-landing-page-domain-name/issues"
+  },
+  "homepage": "https://github.com/terskayl/hugo-mock-landing-page-domain-name#readme"
+}
